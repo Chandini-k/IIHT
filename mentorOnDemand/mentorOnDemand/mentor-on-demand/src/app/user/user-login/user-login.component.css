@@ -1,0 +1,30 @@
+.container-login-two{
+    border-radius: 0;
+    height: 54rem;
+}
+
+.container-login-one{
+    border-radius: 0;
+    height: 54rem;
+    background-color: teal;
+}
+
+.row-choose-user{
+    display: flex;
+    align-items: center;
+}
+
+.heading{
+    display: flex;
+}
+
+.text{
+    color:#c3073F;
+}
+.password-eye{
+    margin-top: -38px;
+    background-color: transparent;
+    height: 40px;
+    color:white;
+}
+

@@ -1,0 +1,14 @@
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\bin\Debug\netcoreapp2.2\Userservice1.deps.json
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\bin\Debug\netcoreapp2.2\Userservice1.runtimeconfig.json
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\bin\Debug\netcoreapp2.2\Userservice1.runtimeconfig.dev.json
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\bin\Debug\netcoreapp2.2\Userservice1.dll
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\bin\Debug\netcoreapp2.2\Userservice1.pdb
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.csprojAssemblyReference.cache
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.csproj.CoreCompileInputs.cache
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.RazorAssemblyInfo.cache
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.RazorAssemblyInfo.cs
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.AssemblyInfoInputs.cache
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.AssemblyInfo.cs
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.RazorTargetAssemblyInfo.cache
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.dll
+C:\Users\808093\Desktop\mentorOnDemand\Services\Userservice1\Userservice1\obj\Debug\netcoreapp2.2\Userservice1.pdb
